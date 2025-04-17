@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags/Déploiement on Tech and stories by Axelle</title>
+    <link>https://blog.axellelanca.com/tags/d%C3%A9ploiement/</link>
+    <description>Recent content in Tags/Déploiement on Tech and stories by Axelle</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Thu, 17 Apr 2025 19:08:02 +0200</lastBuildDate>
+    <atom:link href="https://blog.axellelanca.com/tags/d%C3%A9ploiement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monblog</title>
+      <link>https://blog.axellelanca.com/posts/tech/monblog/</link>
+      <pubDate>Thu, 17 Apr 2025 19:08:02 +0200</pubDate>
+      <guid>https://blog.axellelanca.com/posts/tech/monblog/</guid>
+      <description>&lt;h1 id=&#34;mon-blog-en-hugo-est-la-&#34;&gt;MON BLOG EN HUGO EST LA !!&lt;/h1&gt;&#xA;&lt;p&gt;Alors voilà, mon blog est en ligne.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
