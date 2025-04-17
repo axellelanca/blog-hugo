@@ -11,74 +11,39 @@ buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
 mainsections: ["posts"]
+defaultContentLanguage: "fr"
 
 minify:
   disableXML: true
   # minifyOutput: true
 
 languages:
-  en:
-      languageName: "English"
-      weight: 1
-      taxonomies:
-        category: categories
-        tag: tags
-        series: series
-      menu:
-        main:
-          - name: Archive
-            url: archives
-            weight: 5
-          - name: Search
-            url: search/
-            weight: 10
-          - name: Tags
-            url: tags/
-            weight: 10
-          - name: WiKi
-            url: https://github.com/adityatelange/hugo-PaperMod/wiki/
-
   fr:
     languageName: ":fr:"
-    weight: 2
-    title: PaperModL2
+    weight: 1
+    title: Tech and stories by Axelle
     taxonomies:
-      category: FRcategories
-      tag: FRtags
-      series: FRseries
+      category: Categories
+      tag: Tags
+      series: Series
     menu:
       main:
         - name: Archive
           url: archives/
           weight: 5
-        - name: FRTags
-          url: frtags
+        - name: Tags
+          url: tags
           weight: 10
-        - name: FRCategories
-          url: frcategories
+        - name: Categories
+          url: categories
           weight: 10
-        - name: FRSeries
-          url: frseries
+        - name: Series
+          url: series
           weight: 10
         - name: NullLink
           url: "#"
 
-    # custom params for each language should be under [langcode].parms - hugo v0.120.0
-    params:
-      languageAltTitle: French
-      profileMode:
-        enabled: true
-        title: PaperMod
-        imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
-        imageTitle: ProfileMode image
-        # imageWidth: 120
-        # imageHeight: 120
-        subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
-        buttons:
-          - name: Blog
-            url: posts
-          - name: Profile Mode
-            url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
+
 
 outputs:
   home:
@@ -108,6 +73,34 @@ params:
   # comments: false
   images: ["images/papermod-cover.png"]
 
+  homeInfoParams:
+    Title: "Tech and stories by Axelle"
+    Content: >
+      👋 Hello ! Bienvenue sur mon blog !
+
+      - Ici pour documenter mes travaux, mes apprentissages et ma vie de dev.
+
+      - Feel free to show your support by giving us a star 🌟 on GitHub and sharing with your friends and social media .
+
+      - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3).
+
+  socialIcons:
+    - name: github
+      title: View Source on Github
+      url: "https://github.com/axellelanca"
+    - name: X
+      title: Share PaperMod on X/Twitter
+      url: "https://x.com/Axl_lanca"
+    - name: buyMeaCoffee
+      title: Buy me a coffee :)
+      url: "https://buymeacoffee.com/axl.tech"
+    - name : linkedin
+      title: Connect with me on LinkedIn
+      url: "https://www.linkedin.com/in/axelle-lanca/"
+    - name: instagram
+      title: Follow me on Instagram
+      url: "https://www.instagram.com/axl.tech/"
+
   profileMode:
     enabled: false
     title: PaperMod
@@ -121,27 +114,6 @@ params:
       - name: Tags
         url: tags
 
-  homeInfoParams:
-    Title: "Tech and stories by Axelle"
-    Content: >
-      👋 Hello ! Bienvenue sur mon blog !
-
-      - **PaperMod**  is designed to be clean and simple but fast and responsive theme with useful feature-set that enhances UX.
-
-      - Feel free to show your support by giving us a star 🌟 on GitHub and sharing with your friends and social media .
-
-      - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3).
-
-  socialIcons:
-    - name: github
-      title: View Source on Github
-      url: "https://github.com/adityatelange/axellelanca"
-    - name: X
-      title: Share PaperMod on X/Twitter
-      url: "https://x.com/Axl_lanca"
-    - name: buyMeaCoffee
-      title: Buy me a coffee :)
-      url: "https://buymeacoffee.com/axl.tech"
 
   editPost:
     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
