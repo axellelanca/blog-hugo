@@ -23,6 +23,9 @@ jobs:
       - name: Construire le site Hugo
         run: hugo --minify
 
+      - name: Ajouter le fichier CNAME
+        run: echo "blog.axellelanca.com" > public/CNAME
+
       - name: Déployer sur GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
