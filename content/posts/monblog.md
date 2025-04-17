@@ -8,4 +8,4 @@ tags: ["Hugo", "Déploiement", "GitHub Pages"]
 
 # MON BLOG EN HUGO EST LA !!
 
-Alors voilà, mon blog est en ligne. 
+Alors voilà, mon blog est en ligne. hey.
