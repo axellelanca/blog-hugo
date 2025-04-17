@@ -29,5 +29,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: gh-pages
-          force_orphan: true # Utile si la branche gh-pages n'existe pas
           commit_message: "Déploiement automatique par GitHub Actions"
