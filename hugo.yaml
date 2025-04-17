@@ -122,9 +122,9 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "Tech and stories"
+    Title: "Tech and stories by Axelle"
     Content: >
-      👋 Welcome to demo page of Hugo's theme PaperMod!
+      👋 Hello ! Bienvenue sur mon blog !
 
       - **PaperMod**  is designed to be clean and simple but fast and responsive theme with useful feature-set that enhances UX.
 
@@ -138,10 +138,10 @@ params:
       url: "https://github.com/adityatelange/axellelanca"
     - name: X
       title: Share PaperMod on X/Twitter
-      url: "https://x.com/intent/tweet/?text=Checkout%20Hugo%20PaperMod%20%E2%9C%A8%0AA%20fast,%20clean,%20responsive%20Hugo%20theme.&url=https://github.com/adityatelange/hugo-PaperMod&hashtags=Hugo,PaperMod"
-    - name: KoFi
-      title: Buy me a Ko-Fi :)
-      url: "https://ko-fi.com/adityatelange"
+      url: "https://x.com/Axl_lanca"
+    - name: buyMeaCoffee
+      title: Buy me a coffee :)
+      url: "https://buymeacoffee.com/axl.tech"
 
   editPost:
     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
