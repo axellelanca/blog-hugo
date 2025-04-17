@@ -1,8 +1,7 @@
 ---
-date: '2025-04-17T19:08:02+02:00'
+date: '2025-04-17'
 draft: false
 title: 'Monblog'
-type: post
 categories: ["Tech"]
 tags: ["Hugo", "Déploiement", "GitHub Pages"]
 ---
