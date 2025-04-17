@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories/Tech on Tech and stories by Axelle</title>
     <link>https://blog.axellelanca.com/categories/tech/</link>
     <description>Recent content in Categories/Tech on Tech and stories by Axelle</description>
-    <generator>Hugo</generator>
+    <image>
+      <title>Tech and stories by Axelle</title>
+      <url>https://blog.axellelanca.com/images/papermod-cover.png</url>
+      <link>https://blog.axellelanca.com/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
     <language>fr</language>
     <lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.axellelanca.com/categories/tech/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +18,8 @@
       <link>https://blog.axellelanca.com/posts/monblog/</link>
       <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://blog.axellelanca.com/posts/monblog/</guid>
-      <description>&lt;h1 id=&#34;mon-blog-en-hugo-est-la-&#34;&gt;MON BLOG EN HUGO EST LA !!&lt;/h1&gt;&#xA;&lt;p&gt;Alors voilà, mon blog est en ligne. hey.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;mon-blog-en-hugo-est-la-&#34;&gt;MON BLOG EN HUGO EST LA !!&lt;/h1&gt;
+&lt;p&gt;Alors voilà, mon blog est en ligne. hey.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
