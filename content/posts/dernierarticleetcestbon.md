@@ -4,6 +4,7 @@ draft: false
 title: 'Dernierarticleetcestbon'
 categories: ["Tech"]
 tags: ["Hugo", "Déploiement", "GitHub Pages"]
+series: ["Nom de la série"]
 ---
 
 # Bon dernier test avant que je cable
