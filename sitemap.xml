@@ -17,7 +17,13 @@
     <loc>https://blog.axellelanca.com/tags/hugo/</loc>
     <lastmod>2025-04-17T20:31:07+02:00</lastmod>
   </url><url>
+    <loc>https://blog.axellelanca.com/series/nom-de-la-s%C3%A9rie/</loc>
+    <lastmod>2025-04-17T20:31:07+02:00</lastmod>
+  </url><url>
     <loc>https://blog.axellelanca.com/posts/</loc>
+    <lastmod>2025-04-17T20:31:07+02:00</lastmod>
+  </url><url>
+    <loc>https://blog.axellelanca.com/series/</loc>
     <lastmod>2025-04-17T20:31:07+02:00</lastmod>
   </url><url>
     <loc>https://blog.axellelanca.com/tags/</loc>
@@ -43,7 +49,5 @@
   </url><url>
     <loc>https://blog.axellelanca.com/tags/first/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.axellelanca.com/series/</loc>
   </url>
 </urlset>

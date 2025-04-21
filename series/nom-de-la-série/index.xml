@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nom De La Série on Tech and stories by Axelle</title>
+    <link>https://blog.axellelanca.com/series/nom-de-la-s%C3%A9rie/</link>
+    <description>Recent content in Nom De La Série on Tech and stories by Axelle</description>
+    <image>
+      <title>Tech and stories by Axelle</title>
+      <url>https://blog.axellelanca.com/images/papermod-cover.png</url>
+      <link>https://blog.axellelanca.com/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>fr</language>
+    <lastBuildDate>Thu, 17 Apr 2025 20:31:07 +0200</lastBuildDate>
+    <atom:link href="https://blog.axellelanca.com/series/nom-de-la-s%C3%A9rie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dernierarticleetcestbon</title>
+      <link>https://blog.axellelanca.com/posts/dernierarticleetcestbon/</link>
+      <pubDate>Thu, 17 Apr 2025 20:31:07 +0200</pubDate>
+      <guid>https://blog.axellelanca.com/posts/dernierarticleetcestbon/</guid>
+      <description>&lt;h1 id=&#34;bon-dernier-test-avant-que-je-cable&#34;&gt;Bon dernier test avant que je cable&lt;/h1&gt;
+&lt;p&gt;voyons voyons&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Articleencore</title>
+      <link>https://blog.axellelanca.com/posts/articleencore/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.axellelanca.com/posts/articleencore/</guid>
+      <description>&lt;h1 id=&#34;ca-marche-la-ou-pas-&#34;&gt;CA MARCHE LA OU PAS ??????&lt;/h1&gt;
+&lt;p&gt;alors, ca va ??&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
