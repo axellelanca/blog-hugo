@@ -7,5 +7,17 @@ series: ["Nom de la série"]
 
 # CA MARCHE LA OU PAS ??????
 
-alors, ca va ??
+Petit test de code 
+````go
+package main
+
+import (
+    "fmt"
+)
+func main() {
+    fmt.Println("Hello, world!")
+}
+````
+
+Alors c'est sympa ?
 
