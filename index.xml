@@ -20,12 +20,5 @@
       <guid>https://blog.axellelanca.com/posts/who-am-i/</guid>
       <description>Petit article de présentation sur qui je suis, ce que je fais, ce que je veux faire de ma vie de dev !</description>
     </item>
-    <item>
-      <title>My 1st post</title>
-      <link>https://blog.axellelanca.com/hello/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>https://blog.axellelanca.com/hello/</guid>
-      <description>Desc Text.</description>
-    </item>
   </channel>
 </rss>
