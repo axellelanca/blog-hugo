@@ -3,7 +3,7 @@ title: "La base : Qui suis-je ?"
 date: 2020-09-23
 # weight: 1
 # aliases: ["/first"]
-tags: ["lifestyle", "presentation"]
+tags: ["lifestyle"]
 author: "Axelle"
 # author: ["Me", "You"] # multiple authors
 draft: false
