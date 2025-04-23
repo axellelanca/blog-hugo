@@ -23,9 +23,9 @@ languages:
     weight: 1
     title: Tech and stories by Axelle
     taxonomies:
-      category: Categories
-      tag: Tags
-      series: Series
+      category: categories
+      tag: tags
+      series: series
     menu:
       main:
         - name: Archive
