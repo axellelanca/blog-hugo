@@ -53,7 +53,7 @@ Hugo est conçu pour être simple à utiliser. Il n'y a pas de base de données 
 
 Et il y a les thèmes ! J'ai jeté mon dévolu sur **[PaperMod](https://github.com/adityatelange/hugo-PaperMod)**. Un thème épuré, responsive, et configurable sans douleur.
 
-### En sommes 
+### En somme
 
 * C’est **ultra rapide** (on parle de millisecondes pour générer un site complet).
 
