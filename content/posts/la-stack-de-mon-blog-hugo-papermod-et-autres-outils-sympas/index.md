@@ -1,7 +1,7 @@
 ---
-date: '{{ .Date }}'
+date: 2025-05-07T19:53:00+02:00
 draft: false
-title: '{{ replace .File.ContentBaseName "-" " " | title }}'
+title: 'La stack de mon blog : Hugo, Papermod et autres outils sympas'
 weight: 2
 Description: 'Découvrez comment j’ai construit un blog statique performant avec Hugo, le thème PaperMod, GitHub Pages, GoatCounter, Utterances pour les commentaires et un déploiement automatisé avec GitHub Actions. Stack simple, rapide, open-source et sans prise de tête.'
 tags: []
