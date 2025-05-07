@@ -7,7 +7,7 @@ Description: 'Découvrez comment j’ai construit un blog statique performant av
 tags: ['stack', 'blog', 'Hugo']
 author: 'Axelle Lança'
 editPost:
-    URL: "https://github.com/axellelanca/blog-hugo/content/"
+    URL: "https://github.com/axellelanca/blog-hugo/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ShowReadingTime: true
