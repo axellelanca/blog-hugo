@@ -13,7 +13,7 @@ editPost:
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-ShowToc: false
+ShowToc: true
 ---
 
 # La stack de mon blog : Hugo, Papermod et autres outils sympas
