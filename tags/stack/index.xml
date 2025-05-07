@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Tech and stories by Axelle</title>
-    <link>https://blog.axellelanca.com/posts/</link>
-    <description>Recent content in Posts on Tech and stories by Axelle</description>
+    <title>Stack on Tech and stories by Axelle</title>
+    <link>https://blog.axellelanca.com/tags/stack/</link>
+    <description>Recent content in Stack on Tech and stories by Axelle</description>
     <image>
       <title>Tech and stories by Axelle</title>
       <url>https://blog.axellelanca.com/images/papermod-cover.png</url>
@@ -12,14 +12,7 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>fr</language>
     <lastBuildDate>Wed, 07 May 2025 19:53:00 +0200</lastBuildDate>
-    <atom:link href="https://blog.axellelanca.com/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>La base : Qui suis-je ?</title>
-      <link>https://blog.axellelanca.com/posts/who-am-i/</link>
-      <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.axellelanca.com/posts/who-am-i/</guid>
-      <description>Petit article de présentation sur qui je suis, ce que je fais, ce que je veux faire de ma vie de dev !</description>
-    </item>
+    <atom:link href="https://blog.axellelanca.com/tags/stack/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La stack de mon blog : Hugo, Papermod et autres outils sympas</title>
       <link>https://blog.axellelanca.com/posts/la-stack-de-mon-blog-hugo-papermod-et-autres-outils-sympas/</link>

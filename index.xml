@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 23 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2025 19:53:00 +0200</lastBuildDate>
     <atom:link href="https://blog.axellelanca.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La base : Qui suis-je ?</title>
@@ -19,6 +19,13 @@
       <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://blog.axellelanca.com/posts/who-am-i/</guid>
       <description>Petit article de présentation sur qui je suis, ce que je fais, ce que je veux faire de ma vie de dev !</description>
+    </item>
+    <item>
+      <title>La stack de mon blog : Hugo, Papermod et autres outils sympas</title>
+      <link>https://blog.axellelanca.com/posts/la-stack-de-mon-blog-hugo-papermod-et-autres-outils-sympas/</link>
+      <pubDate>Wed, 07 May 2025 19:53:00 +0200</pubDate>
+      <guid>https://blog.axellelanca.com/posts/la-stack-de-mon-blog-hugo-papermod-et-autres-outils-sympas/</guid>
+      <description>Découvrez comment j’ai construit un blog statique performant avec Hugo, le thème PaperMod, GitHub Pages, GoatCounter, Utterances pour les commentaires et un déploiement automatisé avec GitHub Actions. Stack simple, rapide, open-source et sans prise de tête.</description>
     </item>
   </channel>
 </rss>
