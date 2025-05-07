@@ -4,18 +4,12 @@ draft: false
 title: 'La stack de mon blog : Hugo, Papermod et autres outils sympas'
 weight: 2
 Description: 'Découvrez comment j’ai construit un blog statique performant avec Hugo, le thème PaperMod, GitHub Pages, GoatCounter, Utterances pour les commentaires et un déploiement automatisé avec GitHub Actions. Stack simple, rapide, open-source et sans prise de tête.'
-tags: []
-author: ''
-cover:
-image: "<image path/url>" # image path/url
-alt: "<alt text>" # alt text
-caption: "<text>" # display caption under cover
-relative: false # when using page bundles set this to true
-hidden: true # only hide on current single page
+tags: ['stack', 'blog', 'Hugo']
+author: 'Axelle Lança'
 editPost:
-URL: "https://github.com/axellelanca/blog-hugo/content/"
-Text: "Suggest Changes" # edit text
-appendFilePath: true # to append file path to Edit link
+    URL: "https://github.com/axellelanca/blog-hugo/content/"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
