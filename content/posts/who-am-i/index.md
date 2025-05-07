@@ -1,5 +1,5 @@
 ---
-title: "La base : Qui suis-je ?"
+title: "📌 La base : Qui suis-je ?"
 date: 2025-04-23
 weight: 1
 # aliases: ["/first"]
