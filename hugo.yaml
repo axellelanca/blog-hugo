@@ -95,9 +95,9 @@ params:
     - name : linkedin
       title: Connect with me on LinkedIn
       url: "https://www.linkedin.com/in/axelle-lanca/"
-    - name: instagram
-      title: Follow me on Instagram
-      url: "https://www.instagram.com/axl.tech/"
+    #- name: instagram
+    #  title: Follow me on Instagram
+    #  url: "https://www.instagram.com/axl.tech/"
 
   profileMode:
     enabled: false
